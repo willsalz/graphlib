@@ -1,5 +1,5 @@
 [package]
-name = "graph"
+name = "graphlib"
 version = "0.1.0"
 authors = ["Will Salisbury <wjs@uber.com>"]
 
