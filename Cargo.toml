@@ -5,4 +5,4 @@ authors = ["Will Salisbury <wjs@uber.com>"]
 
 [dependencies]
 log = "0.3"
-env_logger = "0.3"
+env_logger = "0.10"
